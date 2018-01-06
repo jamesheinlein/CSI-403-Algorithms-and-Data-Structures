@@ -1,6 +1,4 @@
-
 def determine_topology(adj):
-
     n_vertices = len(adj.keys())
     vertex_classes = {}
 
