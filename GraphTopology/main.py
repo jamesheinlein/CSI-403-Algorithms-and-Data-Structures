@@ -1,5 +1,5 @@
 
-from GraphTopology import *
+from NetworkTopology import *
 from flask import Flask, request, jsonify
 
 
